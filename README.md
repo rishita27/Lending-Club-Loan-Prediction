@@ -20,5 +20,7 @@ Steps that have been implemented in this project
 5. Subgrades that don’t get paid back that often. There are two subgrades in the dataset that don't get paid often and those are F(1-5) and G(1-5). For these subgrades we will plot a countplot.
 6. Now we will create a new column that is loan_repaid and map the values of loan_status to it.
 
+## Data Preprocessing
+
 
 
