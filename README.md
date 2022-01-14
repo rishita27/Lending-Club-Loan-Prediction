@@ -18,7 +18,25 @@ Steps that have been implemented in this project
 
 3. Analyzing the grade and subgrade column. Unique possible grades and subgrades are displayed. Displaying a countplot per subgrade. Countplot for the subgrade column. Sorted the column sub_grade so that we can get a clear countplot. Subgrades that don’t get paid back that often. There are two subgrades in the dataset that don't get paid often and those are F(1-5) and G(1-5). For these subgrades we will plot a countplot. Now we will create a new column that is loan_repaid and map the values of loan_status to it.
 ## ![Rishita Kotiyal header](https://github.com/rishita27/Lending-Club-Loan-Prediction/blob/master/Outputs/image-5.png)
+
 ## Data Preprocessing
+
+Data preprocessing in Machine Learning is a crucial step that helps enhance the quality of data to promote the extraction of meaningful insights from the data. Typically, real-world data is incomplete, inconsistent, inaccurate (contains errors or outliers), and often lacks specific attribute values/trends. This is where data preprocessing enters the scenario – it helps to clean, format, and organize the raw data, thereby making it ready-to-go for Machine Learning models.
+
+## Train Test Split
+Train Dataset: Used to fit the machine learning model.
+Test Dataset: Used to evaluate the fit machine learning model.
+
+Common split percentages include:
+Train: 80%, Test: 20%
+
+## Creating a Model
+A sequential model is created that is be trained on the data.
+## ![Rishita Kotiyal header](https://github.com/rishita27/Lending-Club-Loan-Prediction/blob/master/Outputs/Screenshot%202022-01-14%20at%2012.44.01%20AM.png)
+
+
+
+
 
 
 
