@@ -14,12 +14,10 @@ Steps that have been implemented in this project
 # ![Rishita Kotiyal header](https://github.com/rishita27/Lending-Club-Loan-Prediction/blob/master/Outputs/image-2.png)
 
 2. To calculate the summary statistics a sub selection on these two columns is made first: df[["loan_amnt", "loan_status"]]. After that the groupby() method is applied on the loan_status column to make a group per category. The average loan amount for every loan status is calculated and returned.
+# ![Rishita Kotiyal header](https://github.com/rishita27/Lending-Club-Loan-Prediction/blob/master/Outputs/Screenshot%202022-01-13%20at%206.40.25%20PM.png)
 
-3. Analyzing the grade and subgrade column. Unique possible grades and subgrades are displayed.
-4. Displaying a countplot per subgrade. Countplot for the subgrade column. Sorted the column sub_grade so that we can get a clear countplot.
-5. Subgrades that don’t get paid back that often. There are two subgrades in the dataset that don't get paid often and those are F(1-5) and G(1-5). For these subgrades we will plot a countplot.
-6. Now we will create a new column that is loan_repaid and map the values of loan_status to it.
-
+3. Analyzing the grade and subgrade column. Unique possible grades and subgrades are displayed. Displaying a countplot per subgrade. Countplot for the subgrade column. Sorted the column sub_grade so that we can get a clear countplot. Subgrades that don’t get paid back that often. There are two subgrades in the dataset that don't get paid often and those are F(1-5) and G(1-5). For these subgrades we will plot a countplot. Now we will create a new column that is loan_repaid and map the values of loan_status to it.
+# ![Rishita Kotiyal header](https://github.com/rishita27/Lending-Club-Loan-Prediction/blob/master/Outputs/image-5.png)
 ## Data Preprocessing
 
 
