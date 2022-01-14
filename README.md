@@ -32,8 +32,11 @@ Train: 80%, Test: 20%
 
 ## Creating a Model
 A sequential model is created that is be trained on the data.
-## ![Rishita Kotiyal header](https://github.com/rishita27/Lending-Club-Loan-Prediction/blob/master/Outputs/Screenshot%202022-01-14%20at%2012.44.01%20AM.png)
 
+The model is then fit to the training data for at least 25 epochs and batch_size of 256.
+## ![Rishita Kotiyal header](https://github.com/rishita27/Lending-Club-Loan-Prediction/blob/master/Outputs/image.png)
+
+At the last model performance is evaluated
 
 
 
