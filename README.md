@@ -8,7 +8,7 @@ Steps that have been implemented in this project
 
 ## Exploratory Data Analysis
 
-Plotted a countplot for the loan_status column. It is simply a visualization with pandas.
+1. Plotted a countplot for the loan_status column. It is simply a visualization with pandas.
 A histogram for the same i.e., for loan_status column. Histogram can only be plotted between two numerical columns. Hence, I will label encode the loan_status
 column first which will assign 0 to charged off and 1 to fully paid.
 
