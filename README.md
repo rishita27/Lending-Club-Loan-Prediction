@@ -3,7 +3,7 @@ Lending Club is a US peer-to-peer lending company, headquartered in San Francisc
 to-peer lender to register its offerings as securities with the Securities and Exchange Commission (SEC), and to offer loan trading on a secondary market. Lending Club is the world's largest peer-to-peer lending platform.
 
 The dataset that has been taken is lending_club_loan.csv from kaggle.
-####### ![Rishita Kotiyal header](https://github.com/rishita27/Lending-Club-Loan-Prediction/blob/master/Outputs/Info.png)
+# ![Rishita Kotiyal header](https://github.com/rishita27/Lending-Club-Loan-Prediction/blob/master/Outputs/Info.png)
 
 Steps that have been implemented in this project
 
