@@ -6,7 +6,7 @@ The dataset that has been taken is lending_club_loan.csv from kaggle.
 
 Steps that have been implemented in this project
 
-<h> Exploratory Data Analysis
+## Exploratory Data Analysis
 
 Plotted a countplot for the loan_status column. It is simply a visualization with pandas.
 A histogram for the same i.e., for loan_status column. Histogram can only be plotted between two numerical columns. Hence, I will label encode the loan_status
